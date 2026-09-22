@@ -4,8 +4,6 @@ Mark copies of your ID and other documents before you send them. Everything runs
 in your browser — files never leave your device, and there is no server, no
 upload, and no network request of any kind.
 
-**[Open the tool →](https://satria14004.github.io/watermark-offline/)**
-
 ## Why
 
 When you send a scan of your ID to a landlord, a bank, or an online form, that
